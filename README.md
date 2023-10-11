@@ -7,7 +7,7 @@ This project offers a Python interface for interacting with printers using the X
 ## Requirements
 
 - Python 3.6 and above
-- Xprinter SDK DLL files, downloaded from Xprinter website.
+- Xprinter SDK DLL files, download from Xprinter website.
 - ctypes library
 
 ## Features
