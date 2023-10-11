@@ -2,7 +2,7 @@
 
 ## Description
 
-A Python interface for interacting with printers using the Xprinter SDK. This project provides a Pythonic way to control printer operations such as printing text, images, and QR codes.
+This project offers a Python interface for interacting with printers using the Xprinter SDK. While the official SDK only provides examples and documentation in C++, this Python wrapper aims to simplify the integration process, making it more accessible for Python developers. With this wrapper, you can easily control printer operations such as printing text, images, and QR codes directly from your Python application.
 
 ## Requirements
 
